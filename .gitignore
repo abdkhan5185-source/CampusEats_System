@@ -1,0 +1,12 @@
+# Ignore the database secrets
+.streamlit/
+
+# Ignore Python temporary files
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+
+# Ignore OS specific files
+.DS_Store
